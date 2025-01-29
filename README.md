@@ -162,3 +162,9 @@ Planned features:
 - Additional technical indicators
 - Backtesting capabilities
 - Machine learning-based predictions
+
+Screenshots
+![image](https://github.com/user-attachments/assets/d4775a22-5877-404d-a86a-de172a495107)
+![image](https://github.com/user-attachments/assets/f87fa348-6544-4171-a54a-9195143ea82d)
+![image](https://github.com/user-attachments/assets/717e8e63-8cc9-4c23-bf25-c8f7e7054b89)
+
